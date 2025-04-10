@@ -36,9 +36,13 @@ drone-from-scratch/
  ├── README.md 
  
  ├── docs/ # Research, theory, wiring notes
+ 
  ├── hardware/ # Component list, wiring diagrams 
+ 
  ├── code/ # Arduino / Teensy source code 
+ 
  ├── design/ # Frame design files 
+ 
  └── images/ # Photos and demo screenshots
 
  --- 
