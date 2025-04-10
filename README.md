@@ -34,6 +34,7 @@ This is a personal project to build a fully functional quadcopter drone **comple
 
 drone-from-scratch/
  ├── README.md 
+ 
  ├── docs/ # Research, theory, wiring notes
  ├── hardware/ # Component list, wiring diagrams 
  ├── code/ # Arduino / Teensy source code 
