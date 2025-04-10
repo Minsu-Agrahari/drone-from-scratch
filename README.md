@@ -33,21 +33,18 @@ This is a personal project to build a fully functional quadcopter drone **comple
 ## 📂 Folder Structure
 
 drone-from-scratch/
+
  ├── README.md 
  ├── docs/ # Research, theory, wiring notes
- 
  ├── hardware/ # Component list, wiring diagrams 
- 
  ├── code/ # Arduino / Teensy source code 
- 
  ├── design/ # Frame design files 
- 
  └── images/ # Photos and demo screenshots
 
  --- 
 
  ## 👨‍💻 Author
 
- ** Minsu Agrahari**
+ **Minsu Agrahari**
  CSE Student | Drone Building | Coding Enthusiast
  
